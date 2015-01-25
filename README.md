@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data-repo
+# Getting-and-Cleaning-Data-Project-repo
 This repo contains README.md, Codebook.md, and run_analysis.R, to finish the "Getting and Cleaning
 Data" coursera project.
 
