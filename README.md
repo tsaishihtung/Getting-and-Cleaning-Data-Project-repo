@@ -1,1 +1,1 @@
-# Gettint-and-Cleaning-Data-repo
+# Getting-and-Cleaning-Data-repo
